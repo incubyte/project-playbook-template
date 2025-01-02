@@ -93,19 +93,19 @@ To make our kickoff discussion as productive as possible, we've prepared a brief
 
 Please complete this questionnaire at least 2-3 days before our scheduled call. This will allow us to tailor the discussion to your specific needs and address any questions that arise from your responses.
 
-#### Kickoff Call Agenda
+#### Kickoff Call Agenda [Need Update]
 We'll be using an interactive collaboration board for our session. Here's what we'll cover:
 
 1. Introductions & Project Context (5 mins)
    - Team introductions
    - Project background and objectives
 
-2. Guiding Principles (15 mins)
+2. Guiding Principles (5 mins)
    - Our approach to delivery
    - Core values and principles
    - Quality standards
 
-3. Roles & Responsibilities (15 mins)
+3. Roles & Responsibilities (10 mins)
    - Team structure
    - Key stakeholders
    - Decision-making framework
@@ -122,7 +122,7 @@ We'll be using an interactive collaboration board for our session. Here's what w
    - Milestone planning
    - Risk management approach
 
-6. Next Steps & Action Items (15 mins)
+6. Next Steps & Action Items (5 mins)
    - Immediate priorities
    - Follow-up meetings
    - Access and setup requirements

@@ -199,10 +199,40 @@ Start the process of team member's onboarding on client system.
     -   Documentation tool
 
 
+## Learning Tracks
+Identify the learning needs for existing/new team members.
+
+Connect with PST team to make sure the learning planners are updated for respective team members and are followed through.
+
+
+Listed below are some of the broad learning areas, based on fill up the grid below to identify the learning needs of each team member (refresher in case the team member has already completed it)
+
+- Tech Practices
+   - CI/CD
+   - Pairing
+   - TDD
+   - Clean Code
+   - AI
+- Development Technology/Languages
+   - Backend
+   - Frontend
+   - Others
+
+
+|     **Learning Resource**      |**Team Member 1**|**Team Member 2**|**Team Member 3**|
+|--------------------------------|-----------------|-----------------|-----------------|
+|Backend Tech (RoR Course)       | Completed       |Pending (ETA)    |ETA              |
+|Frontend Tech (React Course)    | Completed       |Pending (ETA)    |ETA              |
+|DevOps Course                   | Completed       |Pending (ETA)    |ETA              |
+|Mobile Dev (Flutter Course)     | Completed       |Pending (ETA)    |ETA              |
+|BDD Course                      | Completed       |Pending (ETA)    |ETA              |
+|Clean Code Course               | Completed       |Pending (ETA)    |ETA              |
+
 ## TODO Checklist:
 - [ ] Follow up email sent to client
 - [ ] Internal team kickoff call
 - [ ] Setting up learning needs for the team
 - [ ] Setting up any further hiring needs with PST team
-- [ ] Start client onboarding process for team members to get required accesses
+- [ ] Start client onboarding process for team members to get required accesses and maintain the process [here](../sprint-0/client-onboarding-process.md)
+- [ ] Start updating the [project knowledge base](../sprint-0/knowledge-base.md)  based on the customer response and kick-off call notes
 - [ ] Add any other action items which result from client as well as internal kickoff call

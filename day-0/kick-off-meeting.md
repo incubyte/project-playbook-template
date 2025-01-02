@@ -225,7 +225,7 @@ Discuss the team structure such that we would know the Single Point Of Contacts 
 
 Ask any follow up questions to get more clarity on the response from questionnaire sent to client. 
 The goal of this discussion is to get initial idea of what tools/processes the client prefers.
-[TODO] Revisit below categories
+[Need update] Revisit below categories
 -   Cloud provider
 -   Programming Language
 -   Databases

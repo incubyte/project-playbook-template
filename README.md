@@ -16,9 +16,9 @@ TODO Checklist:
 
 ### Playbook contents
 
-1. [Day 0](./day-0/)
-2. [Sprint 0](./sprint-0/)
-3. [Sprint 1-N](./sprint-1-n/)
+1. [Day 0](./day-0/README.md)
+2. [Sprint 0](./sprint-0/README.md)
+3. [Sprint 1-N](./sprint-1-n/README.md)
 
 
 ### Revisit the playbook template every quarter
