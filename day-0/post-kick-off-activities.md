@@ -233,6 +233,7 @@ Listed below are some of the broad learning areas, based on fill up the grid bel
 - [ ] Internal team kickoff call
 - [ ] Setting up learning needs for the team
 - [ ] Setting up any further hiring needs with PST team
-- [ ] Start client onboarding process for team members to get required accesses and maintain the process [here](../sprint-0/client-onboarding-process.md)
+- [ ] Start team onboarding process to get required accesses
+- [ ] Start documenting the team onboarding process [here](../sprint-0/team-onboarding-guide.md)
 - [ ] Start updating the [project knowledge base](../sprint-0/knowledge-base.md)  based on the customer response and kick-off call notes
 - [ ] Add any other action items which result from client as well as internal kickoff call
