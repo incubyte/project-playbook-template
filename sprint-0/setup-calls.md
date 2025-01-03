@@ -3,17 +3,21 @@
 | **Call**                                                              | **Participants**                                                                     | **Duration**  | **Frequency**                                                                                            |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------- | -------------------------------------------------------------------------------------------------------- |
 | [Monthly pulse call](#monthly-pulse-call)                             | Key client stakeholders, Rushali, Sapan                                              | 30 minutes    | Monthly                                                                                                  |
-| [Client engagement call (Internal)](#client-engagement-call-internal) | Enagement Manager, Rushali, Sapan, Technical Advisor                                 | 30 minutes    | Bi-weekly                                                                                                |
+| [Monhtly internal catchup call](#monthly-internal-catchup-call) | Enagement Manager, Rushali, Sapan, Technical Advisor                                 | 30 minutes    | Bi-weekly                                                                                                |
 | [Daily stand-up call](#daily-stand-up-call)                           | Squad/Cross functional team, Technical Advisor, Client side developers (if assigned) | 5-15 minutes  | Daily (working days)                                                                                     |
 | [Backlog Grooming](#backlog-grooming)                                 | Squad/Cross functional team, Technical Advisor                                       | 30-60 minutes | Once* before the sprint planning <br/> * Can be more so that clarity for the sprint planning is achieved |
 | [Sprint Planning](#sprint-planning)                                   | Squad/Cross functional team, Technical Advisor                                       | 30-60 minutes | Once before the start of the sprint                                                                      |
 | [Sprint Retrospective](#sprint-retrospective)                         | Squad/Cross functional team, Technical Advisor                                       | 30-60 minutes | Once at the last day of the sprint                                                                       |
 | [Sprint Demos](#sprint-demo)                                          | Client stakeholders, Squad/Cross functional team, Technical Advisor                  | 30-60 minutes | Once per sprint                                                                                          |
 | [Tea/Coffee break](#tea-or-coffee-break)                              | Project team                                                                         | 15-30 minutes | Every friday or alternate fridays                                                                        |
+| [Quarterly project updates call](#quarterly-project-updates-call)     | Key client stakeholders, Rushali, Sapan, Entire Team                                 | 30-60 minutes | Once per quarter|
 
 ## Monthly pulse call
 
 To know the pulse of the client and team health from the point of view of client. Connect with the key client stakeholders and check the pulse of the engagement.
+
+### Monthly Client Readout Report [Need update]
+Need to create a template readout report which then can be maintained for each project
 
 ### Agenda
 
@@ -25,7 +29,7 @@ To know the pulse of the client and team health from the point of view of client
 -   Team updates (onboarding / off-boarding)
 -   Current burning problems for the business
 
-## Client engagement call (Internal)
+## Monthly internal catchup call
 
 Internal huddle call to check the team pulse and make strategy for the client engagement.
 
@@ -39,6 +43,19 @@ Internal huddle call to check the team pulse and make strategy for the client en
 -   Shout-outs
 
 Use this [template](../resources/enagement-board-template.drawio) to get started
+
+## Quarterly project updates call
+[Need update] Need to discuss this call in details for setting right agenda and conducting methods
+Similar to project kick-off call, we would go through the project updates.
+
+### MIRO Board for Quarterly project update call
+
+### Agenda
+-   Revisit the KickOff MIRO board and reflect on the project progress
+-   Team feedback
+-   Client feedback
+-   Defining success criteria for next quarter
+-   Update client expectations
 
 ## Daily stand-up call
 

@@ -154,27 +154,6 @@ We care deeply about their needs and have got their backs through thick and thin
 
 
 
-### Sample brief talking points
-Here's a concise 5-minute version of brief talking points regarding our guiding principles:
-
-"At Incubyte, our identity isn't defined by what we do, but by how we do it. Six core principles shape our every action, decision, and interaction.
-
-Picture quality as a craft that demands constant attention. That's our first principle – the relentless pursuit of quality with pragmatism. We don't believe in cutting corners, but we also know that progress shouldn't be paralyzed by perfectionism. Every day, we strike that delicate balance between excellence and delivery.
-
-This flows into our second principle – extreme ownership. When you see an Incubyte team member, you're looking at someone who doesn't make excuses, who takes responsibility for both triumphs and setbacks. Whether we're aligning with company goals or ensuring our team's success, we own every outcome, every time.
-
-In our remote-first world, collaboration isn't just a nice-to-have – it's essential. That's why proactive collaboration is our third principle. We actively seek out opportunities to work together, share ideas, and challenge each other. From pair programming to retrospectives, we make teamwork a daily practice, not just a buzzword.
-
-We're also committed to the active pursuit of mastery. Like martial artists following the 'ShuHaRi' path, we learn from the masters, develop our own style, and then push boundaries. But here's what makes us different – we don't keep this knowledge to ourselves. Every team member is a multiplier, lifting others as they rise.
-
-Our fifth principle might be the most challenging – giving, inviting, and acting on feedback. We believe true kindness lies in having those difficult conversations that help others grow. We create a safe space where feedback flows freely and actions follow words.
-
-Finally, we create ecstatic customers. We're not just writing code; we're building dreams. When clients choose Incubyte, they're getting partners who care as deeply about their success as they do. Like trusted guardians of their vision, we ensure both the big picture and the smallest details are handled with excellence.
-
-These principles aren't just guidelines – they're commitments. They're woven into our hiring, our client relationships, our code, and our culture. This is Incubyte, and these principles are our foundation."
-
-This version maintains the key messages while being more concise and punchy, suitable for a 5-minute presentation.
-
 ## RACI matrix
 
 ### What is RACI matrix?
