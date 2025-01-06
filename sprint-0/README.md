@@ -2,7 +2,7 @@
 
 1. [Discovery call](discovery-call.md)
 2. [Conventions](conventions.md)
-3. Set up a [walking skeleton](walking-skeleton.md)
+3. Set up a [walking skeleton](walking-skeleton.md) (Required for greenfield projects only)
 4. Set up [knowledge base](knowledge-base.md)
 5. Set up [team onboarding guide](team-onboarding-guide.md)
 5. [Project management](project-management.md)
@@ -14,10 +14,10 @@
 
 ### TODO Checklist
 - [ ] Discovery call
-- [ ] Update project knowledge base
-- [ ] Update team onboarding guide
-- [ ] Define team charter
-- [ ] Create monthly client readout report base
+- [ ] Update project knowledge base [here](input document link)
+- [ ] Update team onboarding guide [here](input document link)
+- [ ] Define team charter [here](input document link)
+- [ ] Create monthly client readout report base [here](input document link)
 - [ ] Schedule Monthly Internal Catchup Call
 - [ ] Schedule Monthly Pulse Call with Client
 - [ ] Schedule Quarterly Project Updates Call

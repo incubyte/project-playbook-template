@@ -93,7 +93,7 @@ To make our kickoff discussion as productive as possible, we've prepared a brief
 
 Please complete this questionnaire at least 2-3 days before our scheduled call. This will allow us to tailor the discussion to your specific needs and address any questions that arise from your responses.
 
-#### Kickoff Call Agenda [Need Update]
+#### Kickoff Call Agenda
 We'll be using an interactive collaboration board for our session. Here's what we'll cover:
 
 1. Introductions & Project Context (5 mins)
