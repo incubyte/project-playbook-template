@@ -1,4 +1,14 @@
 # The Independent Pod Model
+This playbook defines what Independent Pods mean for Incubyte, and has guidelines that help Incubyte:
+- Spin up an independent pod for clients,
+- Make it a high-functioning pod, and
+- Ensure that it continues to be successful long-term
+This playbook kicks-in as soon as Incubyte receives a go-ahead from the client to spin up an independent pod for them.
+
+## What is an Independent Pod at Incubyte
+It is a team that owns 
+
+
 
 # Playbook template for making independant pods successful 
 This playbook template is a pre-designed framework that provides a standardized format for creating project specific playbooks. Project specific playbook created using this template would act as a one-stop knowledge base for that project. 
