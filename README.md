@@ -1,3 +1,5 @@
+# The Independent Pod Model
+
 # Playbook template for making independant pods successful 
 This playbook template is a pre-designed framework that provides a standardized format for creating project specific playbooks. Project specific playbook created using this template would act as a one-stop knowledge base for that project. 
 
