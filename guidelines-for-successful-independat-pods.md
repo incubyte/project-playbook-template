@@ -48,7 +48,7 @@ This playbook provides guidelines to:
 -   Roles:
     -   Define responsibilities for requirements, approvals, and feedback.
     -   Ensure accessibility for weekly or bi-weekly alignment calls.
--   Detailed Guidelines: Refer to the Client Stakeholder Engagement Playbook.
+-   Detailed Guidelines: Refer to the [Client Stakeholder Engagement Playbook](./client-stakeholder-engagement-playbook.md)
 
 ### Engagement Model with the Client
 
